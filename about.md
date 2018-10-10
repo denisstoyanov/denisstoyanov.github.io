@@ -23,11 +23,13 @@ sitemap:
 	<li>Apache Cordova</li>
 	<li>Google APIs (главно Maps API), MailChimp API, Flickr API, SoundCloud API, pCloud JavaScript API</li>
 	<li>Web Scrapping</li>
-	<li>Уеб сайт аудити - SEO, Скорост и Структура; Screaming Frog</li>+
+	<li>Уеб сайт аудити - SEO, Скорост и Структура; Screaming Frog</li>
 	<li>Adobe Photoshop, Adobe Illustrator</li>
 	<li>PSD към HTML и WordPress теми.</li>
 	<li>Adwords - Search, Display и Shopping</li>
 </ul>
+
+<hr>
 
 <header>
 		<h3>Учител - Уеб Разработка - Учебен Център "Давитоз"</h3>
@@ -47,6 +49,7 @@ sitemap:
 	<li>Основна SEO оптимизация. (Главно On-Page)</li>
 </ul>
 
+<hr>
 
 <header>
 		<h3>Уеб Разработчик и SEO Оптимизация - 411 Marketing</h3>
@@ -62,6 +65,8 @@ sitemap:
 	<li>Чистене на хакнати сайтове.</li>
 	<li>Поддържка на вътрешните инструменти, разширения, плъгини и теми.</li>
 </ul>
+
+<hr>
 
 <h2>Сертификати:</h2>
 
