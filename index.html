@@ -65,7 +65,7 @@ sitemap:
 									 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus eros ligula, et euismod quam tempor a. Cras sollicitudin mauris eu ornare sollicitudin.</p>
 									 	</div>
 									 	<div class="4u">
-									 		<h3>Разработка на електронни магазини</h3>
+									 		<h3>Eлектронни магазини</h3>
 									 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus eros ligula, et euismod quam tempor a. Cras sollicitudin mauris eu ornare sollicitudin.</p>
 									 	</div>
 									 	<div class="4u">
@@ -89,12 +89,15 @@ sitemap:
 									 </div>
 								
 								</header>
+
+								<hr>
+
 								<h2>Портфолио</h2>
 								<!-- Posts -->
-								<section class="posts">
+								<section class="posts row">
 									{% for post in site.posts limit:3 %}
 									{% assign mod3 = forloop.index | modulo: 3 %}
-									<article>
+									<article class="6u">
 										<header>
 											<span class="date">{{ post.date | date_to_string }}</span>
 											<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
