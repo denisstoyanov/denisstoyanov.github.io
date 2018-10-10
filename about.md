@@ -63,6 +63,20 @@ sitemap:
 	<li>Поддържка на вътрешните инструменти, разширения, плъгини и теми.</li>
 </ul>
 
+<h2>Сертификати:</h2>
+
+<div class="row">
+ 	<div class="4u box">
+ 		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Search Certification</a></h3>
+ 	</div>
+ 	<div class="4u box">
+ 		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Display Certification</a></h3>
+ 	</div>
+ 	<div class="4u box">
+ 		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Shopping Certification</a></h3>
+ 	</div>
+</div>
+
 ### Content is Imortant
 <div class="box">
   <p>
