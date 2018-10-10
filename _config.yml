@@ -1,5 +1,5 @@
 # Site
-title:              Уеб Студио
+title:              Уеб Студио Стоянов
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Варна, България
+phone:              0885 05 71 69
+email:              denis.a.stoyanov@gmail.com
 
 # Gems
 gems:
