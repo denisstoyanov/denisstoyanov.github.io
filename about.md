@@ -1,19 +1,67 @@
 ---
 layout: page
 title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+description: About me content
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## За мен
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<h2>Професионален опит:</h2>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+<header>
+		<h3>Уеб Разработчик - Freelancer</h3>
+		<p>Август 2014 - до момента</p>
+</header>
+<p>Разработка на уеб сайтове и приложения.</p>
+<ul>
+	<li>HTML5, CSS3, JS и PHP</li>
+	<li>WordPress</li>
+	<li>D3.js, Kendo UI, jQuery, jQuery UI, Puppeteer</li>
+	<li>Apache Cordova</li>
+	<li>Google APIs (главно Maps API), MailChimp API, Flickr API, SoundCloud API, pCloud JavaScript API</li>
+	<li>Web Scrapping</li>
+	<li>Уеб сайт аудити - SEO, Скорост и Структура; Screaming Frog</li>+
+	<li>Adobe Photoshop, Adobe Illustrator</li>
+	<li>PSD към HTML и WordPress теми.</li>
+	<li>Adwords - Search, Display и Shopping</li>
+</ul>
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+<header>
+		<h3>Учител - Уеб Разработка - Учебен Център "Давитоз"</h3>
+		<p>Юли 2015 - Юни 2016</p>
+</header>
+<p>Сфера образование.</p>
+<ul>
+	<li>Закупуване на хостинг и домейн. Основи на контролния панел. </li>
+	<li>Основи на CMS системата WordPress (или OpenCart). Инсталиране и регистрация.</li>
+	<li>Избор, инсталация на теми.</li>
+	<li>Създаване на страници и менюта. Подредба, изглед и настройка. </li>
+	<li>Работа с добавки (plug-ins). Настройка и интегриране в темата.</li>
+	<li>Създаване нa странични ленти и джаджи (widgets). </li>
+	<li>Персонализиране на теми посредством PHP, HTML и CSS.</li>+
+	<li>Инсталиране на онлайн магазин. Настройки. (WooCommerce).</li>
+	<li>Качване на продукти в онлайн магазина и тяхното разположение в темата.</li>
+	<li>Основна SEO оптимизация. (Главно On-Page)</li>
+</ul>
+
+
+<header>
+		<h3>Уеб Разработчик и SEO Оптимизация - 411 Marketing</h3>
+		<p>Март 2012 - Май 2016</p>
+</header>
+<p>Уеб разработчик в компания занимаваща се с Online реклама.</p>
+<ul>
+	<li>Разработка на уеб сайтове.</li>
+	<li>On-page оптимизация.</li>
+	<li>Off-page оптимизация.</li>
+	<li>WordPress поддръжка.</li>
+	<li>Мобилни уеб сайтове - поддръжка и разработка.</li>
+	<li>Чистене на хакнати сайтове.</li>
+	<li>Поддържка на вътрешните инструменти, разширения, плъгини и теми.</li>
+</ul>
 
 ### Content is Imortant
 <div class="box">
