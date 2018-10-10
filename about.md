@@ -68,16 +68,16 @@ sitemap:
 
 <hr>
 
-<h2>Сертификати:</h2>
+<h3>Сертификати:</h3>
 
 <div class="row">
- 	<div class="4u box">
+ 	<div class="4u">
  		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Search Certification</a></h3>
  	</div>
- 	<div class="4u box">
+ 	<div class="4u">
  		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Display Certification</a></h3>
  	</div>
- 	<div class="4u box">
+ 	<div class="4u">
  		<h3><a href="https://academy.exceedlms.com/student/award/18776823" target="_blank">Google Ads Shopping Certification</a></h3>
  	</div>
 </div>
