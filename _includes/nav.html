@@ -2,6 +2,5 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Начало</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">За мен</a></li>
   <li class="{% if page.url contains '/portfolio/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Портфолио</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Блог</a></li>
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Контакти</a></li>
 </ul>
