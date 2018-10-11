@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Everything Camping"
-date:   Web Design, PSD to WordPress
-excerpt: "Уеб дизайн, Прехвърляне към WordPress"
+date:   2018-10-11
+excerpt: "Web Design, PSD to WordPress"
 image: "/images/projects/everythingcamping/thumbs/camp-1-thumb.jpg"
 ---
 
