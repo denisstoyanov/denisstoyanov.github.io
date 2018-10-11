@@ -4,7 +4,7 @@ title: Уеб Студио Стоянов
 description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2018-11-10
     changefreq: weekly
 ---
 <!DOCTYPE HTML>
@@ -95,7 +95,7 @@ sitemap:
 								<h2>Портфолио</h2>
 								<!-- Posts -->
 								<section class="posts row">
-									{% for post in site.posts limit:4 %}
+									{% for post in site.posts %}
 									{% assign mod3 = forloop.index | modulo: 3 %}
 									<article class="6u">
 										<header>
