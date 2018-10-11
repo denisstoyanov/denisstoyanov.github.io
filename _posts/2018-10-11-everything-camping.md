@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Everything Camping"
-date:   2017-10-31
+date:   PSD to WordPress
 excerpt: "Уеб дизайн, Прехвърляне към WordPress"
-image: "/images/projects/everythingcamping/camp-1.jpg"
+image: "/images/projects/everythingcamping/thumbs/camp-1-thumb.jpg"
 ---
+
+<img src="/images/projects/atg/camp-1-thumb.jpg"> 
