@@ -101,7 +101,7 @@ sitemap:
 											<span class="date">{{ post.date | date_to_string }}</span>
 											<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 										</header>
-										<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.featured-img }}" alt="" /></a>
+										<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
 										<p>{{ post.excerpt }}</p>
 										<ul class="actions">
 											<li><a href="{{ post.url | absolute_url }}" class="button">Виж повече</a></li>
