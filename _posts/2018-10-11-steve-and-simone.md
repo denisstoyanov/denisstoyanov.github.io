@@ -2,7 +2,7 @@
 layout: post
 title:  "Steve and Simone Wedding"
 date:   2018-10-11
-excerpt: "WordPress"
+excerpt: "WordPress Development"
 image: "/images/projects/steve-simone/thumbs/steve-simone-home-thumb.jpg"
 ---
 
