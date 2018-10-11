@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Everything Camping"
-date:   PSD to WordPress
-excerpt: "Уеб дизайн, Прехвърляне към WordPress"
+title:  "Steve and Simone Wedding"
+date:   2018-10-11
+excerpt: "WordPress"
 image: "/images/projects/steve-simone/steve-simone-home-thumb.jpg"
 ---
 
