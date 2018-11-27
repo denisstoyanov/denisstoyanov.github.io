@@ -11,20 +11,20 @@ sitemap:
 
 <h2 class="box align-center">All Ages</h2>
 
-<span class="image fit"><img src="{{ site.base-url }}/images/fof/27-nov-18/AA.png" alt="AA"></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/AA.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/AA.jpg" alt="AA"></a></span>
 
 <h2 class="box align-center">Late Middle Ages</h2>
 
-<span class="image fit"><img src="{{ site.base-url }}/images/fof/27-nov-18/lma.png" alt="AA"></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/lma.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/lma.jpg" alt="AA"></a></span>
 
 <h2 class="box align-center">The Future</h2>
 
-<span class="image fit"><img src="{{ site.base-url }}/images/fof/27-nov-18/Future.png" alt="AA"></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/future.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/future.jpg" alt="AA"></a></span>
 
 <h2 class="box align-center">Early Middle Ages</h2>
 
-<span class="image fit"><img src="{{ site.base-url }}/images/fof/27-nov-18/ema.png" alt="AA"></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/ema.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/ema.jpg" alt="AA"></a></span>
 
 <h2 class="box align-center">Iron Age</h2>
 
-<span class="image fit"><img src="{{ site.base-url }}/images/fof/27-nov-18/IA.png" alt="AA"></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/IA.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/IA.jpg" alt="AA"></a></span>
