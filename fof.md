@@ -11,7 +11,7 @@ sitemap:
 
 <h2 class="box align-center">All Ages</h2>
 
-<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/AA.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/AA.jpg" alt="AA"></a></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/aa.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/aa.jpg" alt="AA"></a></span>
 
 <h2 class="box align-center">Late Middle Ages</h2>
 
@@ -27,4 +27,4 @@ sitemap:
 
 <h2 class="box align-center">Iron Age</h2>
 
-<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/IA.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/IA.jpg" alt="AA"></a></span>
+<span class="image fit"><a href="{{ site.base-url }}/images/fof/27-nov-18/ia.jpg" target="_blank"><img src="{{ site.base-url }}/images/fof/27-nov-18/ia.jpg" alt="AA"></a></span>
