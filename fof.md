@@ -5,7 +5,7 @@ description: Screenshots
 sitemap:
     priority: 0.7
     lastmod: 2018-11-27
-    changefreq: daily
+    changefreq: weekly
 ---
 ## FoF
 
